@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
 *.pyc
+MNIST_data
+BSR_bsds500.tgz
+mnistm_data.pkl
